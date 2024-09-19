@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|d:\\file_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3348B3B7-AB0B-4F7F-B87C-F5284BD67956}|lab123.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T10:13:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\Index.cshtml",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T10:16:51.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T07:11:35.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\Delete.cshtml",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Learner\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T10:06:00.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T10:16:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LearnerController.cs",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwGoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:56:29.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:47:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:46:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "Models\\Courses.cs",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Courses.cs",
+              "RelativeToolTip": "Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:46:20.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "Models\\Learner.cs",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Learner.cs",
+              "RelativeToolTip": "Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:45:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Major.cs",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "Models\\Major.cs",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Major.cs",
+              "RelativeToolTip": "Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:45:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\FILE_learn\\ki_1_nam_3\\lap_trinh_web\\lab123\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:32:54.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
